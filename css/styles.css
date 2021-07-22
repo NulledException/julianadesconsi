@@ -1,0 +1,87 @@
+body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+div.banner {
+    height: 700px;
+    width: 100%;
+    background-image: url(../img/slider-site3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+div.logo {
+    margin-top: 32.36px;
+}
+
+div.menu {
+    margin-top: 40.45px;
+}
+
+div.texto {
+    margin-top: 135px;
+}
+
+h3.menor {
+    font-size: 38.832px;
+}
+
+h2.maior {
+    font-size: 77.664px;
+}
+
+a.link0 {
+    font-size: 19.416px;
+    color: #333;
+    text-decoration: none;
+}
+
+div.down {
+    text-align: center;
+    margin-top: -16.18px;
+}
+
+div.juli {
+    margin-top: 63.102px;
+}
+
+div.texto0 {
+    margin-top: 71.192px;
+}
+
+h1.titulo,
+h2.titulo {
+    font-size: 58.248px;
+    margin-top: -4.54px;
+}
+
+span.queme {
+    margin-left: 5px;
+    font-size: 30.24px;
+}
+
+p.p1 {
+    font-size: 16.18px;
+    margin-top: 32.83px;
+    line-height: 24.27px;
+    text-align: justify;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
+p.p2 {
+    font-size: 16.18px;
+    margin-top: 16.18px;
+    line-height: 24.27px;
+    text-align: justify;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
+div.projetos {
+    background-color: #FAFAFA;
+    padding: 50px 0px;
+}
+
+span.meus {
+    font-size: 30.24px;
+}
